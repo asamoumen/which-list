@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2023-06-14 14:57:46">
+<sys_user_role action="INSERT_OR_UPDATE">
+<assignable_by display_value=""/>
+<can_delegate>true</can_delegate>
+<description>Prepares the summaries before the presentation to the VRR</description>
+<elevated_privilege>false</elevated_privilege>
+<grantable>true</grantable>
+<includes_roles/>
+<name>de_adr_mgr</name>
+<requires_subscription>-1</requires_subscription>
+<scoped_admin>false</scoped_admin>
+<suffix/>
+<sys_class_name>sys_user_role</sys_class_name>
+<sys_created_by>Alhousseynisall</sys_created_by>
+<sys_created_on>2023-06-13 08:36:53</sys_created_on>
+<sys_customer_update>false</sys_customer_update>
+<sys_id>b0b1c5531b17a510466b20a1b24bcb4d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>de_adr_mgr</sys_name>
+<sys_package display_value="Global" source="global">global</sys_package>
+<sys_policy/>
+<sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sys_user_role_b0b1c5531b17a510466b20a1b24bcb4d</sys_update_name>
+<sys_updated_by>Alhousseynisall</sys_updated_by>
+<sys_updated_on>2023-06-13 08:36:53</sys_updated_on>
+</sys_user_role>
+</unload>
