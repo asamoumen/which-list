@@ -112,6 +112,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>version</element>
+            <position>8</position>
+            <sys_created_by>abdelmoumeneaitsiahmad</sys_created_by>
+            <sys_created_on>2023-06-15 08:34:45</sys_created_on>
+            <sys_id>9364dbf387576150b84d851d8bbb35a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_undul_wish_list_wish_item" sys_domain="global" view="Default view">e1e0bba787d32150b84d851d8bbb35eb</sys_ui_section>
+            <sys_updated_by>abdelmoumeneaitsiahmad</sys_updated_by>
+            <sys_updated_on>2023-06-15 08:34:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
